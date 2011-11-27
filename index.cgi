@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/Users/yoshimura_yuu/perl5/perlbrew/perls/perl-5.14.1/bin/perl
 
 use strict;
 use warnings;
